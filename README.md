@@ -4,4 +4,5 @@
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Te-River)
 
-![Ashutosh's github activity graph](https://github-stats-extended.vercel.app/graph?username=Te-River)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Te-River)
+
